@@ -1,0 +1,38 @@
+<div className='footer'>
+        //     <div className="container">
+        //         <div className="top">
+                    
+        //             <a href="#"
+        //              class="call text-dark"><BsFillArrowUpCircleFill className='icon' /></a>
+                      
+                    
+
+        //         </div>
+        //         <div className="col-container">
+        //             <div className="col">
+        //                 <h3>Home</h3>
+        //                 <p>About us</p>
+        //                 <p>Contact</p>
+        //                 <p>Sales</p>
+        //             </div>
+        //             <div className="col">
+        //                 <h3>Privacy Policy</h3>
+        //                 <p>Delivery Options</p>
+        //                 <p>FAQ's</p>
+
+        //             </div>
+        //             <div className="col">
+        //                 <h3>Services</h3>
+        //                 <p>Refinishing</p>
+        //                 <p>Furniture Repair</p>
+        //                 <p>Transportation</p>
+        //             </div>
+
+
+        //             <form>
+        //                 <h3>Subscribe to our newsletters</h3>
+
+        //                 <input type="email" placeholder='Enter your email' />
+        //                 <FiMail className='mail-icon' />
+        //             </form>
+        //         </div>
