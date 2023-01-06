@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eveven7/furniture_Shop/static/css/main.d4a8db10.css",
+    "main.js": "/eveven7/furniture_Shop/static/js/main.48286501.js",
+    "static/js/787.23170c61.chunk.js": "/eveven7/furniture_Shop/static/js/787.23170c61.chunk.js",
+    "static/media/1.jpg": "/eveven7/furniture_Shop/static/media/1.b2af278e71663b0d1650.jpg",
+    "index.html": "/eveven7/furniture_Shop/index.html",
+    "main.d4a8db10.css.map": "/eveven7/furniture_Shop/static/css/main.d4a8db10.css.map",
+    "main.48286501.js.map": "/eveven7/furniture_Shop/static/js/main.48286501.js.map",
+    "787.23170c61.chunk.js.map": "/eveven7/furniture_Shop/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4a8db10.css",
+    "static/js/main.48286501.js"
+  ]
+}
